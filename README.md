@@ -23,7 +23,7 @@ Este é um projeto desenvolvido como parte da minha jornada na **Formação Back
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/conversor-moedas-java.git
+   git clone https://github.com/Soso18887/conversor-moedas-java.git
 
 
 ## 💡 Aprendizados
